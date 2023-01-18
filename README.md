@@ -109,7 +109,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
     - Exemplo: `git checkout main`
   - Agora crie uma branch à qual você vai submeter os `commits` do seu projeto
     - Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
-    - Exemplo: `git checkout -b joaozinho-sd-023-b-project-s-and-dragons`
+    - Exemplo: `git checkout -b joaozinho-sd-023-b-project-trybers-and-dragons`
 
   4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
 
