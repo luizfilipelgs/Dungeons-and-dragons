@@ -15,11 +15,11 @@ export default abstract class Archetype {
     return this.name;
   }
 
-  public get special(): string {
+  public get special(): number {
     return this.special;
   }
 
-  public get cost(): string {
+  public get cost(): number {
     return this.cost;
   }
 
