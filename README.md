@@ -45,9 +45,9 @@
 
   > Clone o repositório
 
-  - `git clone git@github.com:tryber/sd-023-b-project-trybers-and-dragons.git`.
+  - `git clone git@github.com:luizfilipelgs/Trybers-and-dragons.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-023-b-project-trybers-and-dragons`.
+  - `cd Trybers-and-dragons`.
   > Instale as dependências [**Caso existam**] com `npm install`
   
   ✨ **Dica:** Para rodar o projeto desta forma, obrigatoriamente você deve ter o `node` instalado em seu computador.
